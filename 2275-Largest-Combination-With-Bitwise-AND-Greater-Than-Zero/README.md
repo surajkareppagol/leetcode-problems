@@ -1,4 +1,4 @@
-# 🧩 2275. Largest Combination With Bitwise AND Greater Than Zero
+# 🧩 2275\. Largest Combination With Bitwise AND Greater Than Zero
 
 The bitwise AND of an array nums is the bitwise AND of all integers in nums.
 

@@ -5,6 +5,7 @@ A collection of leetcode problems.
 ## ✅ Accepted
 
 - ✅ 1381\. Design a Stack With Increment Operation
+- ✅ 2275\. Largest Combination With Bitwise AND Greater Than Zero
 - ✅ 2696\. Minimum String Length After Removing Substrings
 - ✅ 3163\. String Compression III
 
