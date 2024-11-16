@@ -4,6 +4,7 @@ A collection of leetcode problems.
 
 ## ✅ Accepted
 
+- ✅ 20\. Valid Parentheses
 - ✅ 136\. Single Number
 - ✅ 1381\. Design a Stack With Increment Operation
 - ✅ 2275\. Largest Combination With Bitwise AND Greater Than Zero
