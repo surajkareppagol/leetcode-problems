@@ -18,6 +18,7 @@ These problems are partially solved, a percentage of testcases are passed and
 not all testcases passed.
 
 - ❗670\. Maximum Swap
+- ❗862\. Shortest Subarray with Sum at Least K
 - ❗1497\. Check If Array Pairs Are Divisible by k
 - ❗1813\. Sentence Similarity III
 - ❗2501\. Longest Square Streak in an Array
