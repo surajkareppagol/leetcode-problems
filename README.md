@@ -9,6 +9,7 @@ A collection of leetcode problems.
 - ✅ 1381\. Design a Stack With Increment Operation
 - ✅ 2275\. Largest Combination With Bitwise AND Greater Than Zero
 - ✅ 2696\. Minimum String Length After Removing Substrings
+- ✅ 2924\. Find Champion II
 - ✅ 3163\. String Compression III
 - ✅ 3254\. Find the Power of K-Size Subarrays I
 
