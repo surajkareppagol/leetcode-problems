@@ -6,11 +6,14 @@ from typing import *
 class Solution:
     def addSpaces(self, s: str, spaces: List[int]) -> str:
         # Works, but worst code
-        result = ""
-        spaces = set(spaces)
+        n = len(spaces)
+        space_index = 0
 
+        result = ""
         for index, letter in enumerate(s):
-            if index in spaces:
+            if space_index < n and index == spaces[space_index]:
+                space_index += 1
+
                 result += " "
                 result += letter
                 continue
