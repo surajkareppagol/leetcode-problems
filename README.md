@@ -28,3 +28,4 @@ not all testcases passed.
 - ❗2070\. Most Beautiful Item for Each Query
 - ❗2707\. Extra Characters in a String
 - ❗3043\. Find the Length of the Longest Common Prefix
+- ❗3152\. Special Array II
