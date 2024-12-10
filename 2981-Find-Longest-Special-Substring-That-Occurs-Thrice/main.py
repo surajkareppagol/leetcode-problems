@@ -14,25 +14,21 @@ class Solution:
             for j in range(i, n + 1):
                 if i != j:
                     sub = s[i:j]
-                    l = len(sub)
 
-                    if l not in frequency.keys():
-                        frequency[l] = [sub]
+                    if sub not in frequency.keys():
+                        frequency[sub] = 1
                         continue
-                    frequency[l].append(sub)
+                    frequency[sub] += 1
 
-        pprint(frequency)
+        answer = 0
 
-        l = list(frequency.keys())
-        for key in l[::-1]:
-            for word in frequency[key]:
-                c = frequency[key].count(word)
-                print(key, word, c, end="\n")
+        for key, value in frequency.items():
+            if value >= 3 and len(key) > answer:
+                answer = len(key)
 
-                if c >= 3:
-                    return key
-
-        return -1
+        if answer == 0:
+            return -1
+        return answer
 
 
 s = Solution()
@@ -40,6 +36,4 @@ s = Solution()
 print(s.maximumLength("aaaa"))
 print(s.maximumLength("abcdef"))
 print(s.maximumLength("abcaba"))
-
-# Output is correct maybe leetcode testcase is wrong
 print(s.maximumLength("cccerrrecdcdccedecdcccddeeeddcdcddedccdceeedccecde"))
