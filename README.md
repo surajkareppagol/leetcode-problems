@@ -27,5 +27,6 @@ not all testcases passed.
 - ❗2501\. Longest Square Streak in an Array
 - ❗2070\. Most Beautiful Item for Each Query
 - ❗2707\. Extra Characters in a String
+- ❗2981\. Find Longest Special Substring That Occurs Thrice I
 - ❗3043\. Find the Length of the Longest Common Prefix
 - ❗3152\. Special Array II
