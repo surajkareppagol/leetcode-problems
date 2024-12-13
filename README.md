@@ -26,6 +26,7 @@ not all testcases passed.
 - ❗1813\. Sentence Similarity III
 - ❗2501\. Longest Square Streak in an Array
 - ❗2070\. Most Beautiful Item for Each Query
+- ❗2593\. Find Score of an Array After Marking All Elements
 - ❗2707\. Extra Characters in a String
 - ❗2981\. Find Longest Special Substring That Occurs Thrice I
 - ❗3043\. Find the Length of the Longest Common Prefix
