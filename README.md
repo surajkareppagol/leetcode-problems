@@ -32,3 +32,7 @@ not all testcases passed.
 - ❗2981\. Find Longest Special Substring That Occurs Thrice I
 - ❗3043\. Find the Length of the Longest Common Prefix
 - ❗3152\. Special Array II
+
+## 📖 Editorial
+
+- ✅ 179\. Largest Number
