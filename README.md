@@ -14,6 +14,7 @@ A collection of leetcode problems.
 - ✅ 2924\. Find Champion II
 - ✅ 3163\. String Compression III
 - ✅ 3254\. Find the Power of K-Size Subarrays I
+- ✅ 3264\. Final Array State After K Multiplication Operations I
 
 ## ❗ Unsolved
 
