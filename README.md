@@ -9,6 +9,7 @@ A collection of leetcode problems.
 - ✅ 1381\. Design a Stack With Increment Operation
 - ✅ 1455\. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 - ✅ 2109\. Adding Spaces to a String
+- ✅ 2270\. Number of Ways to Split Array
 - ✅ 2275\. Largest Combination With Bitwise AND Greater Than Zero
 - ✅ 2696\. Minimum String Length After Removing Substrings
 - ✅ 2924\. Find Champion II
