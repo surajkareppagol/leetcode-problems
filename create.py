@@ -3,6 +3,7 @@ from sys import argv
 
 
 def main(path):
+    path = path.replace(".", "")
     path = path.replace(" ", "-")
 
     mkdir(path)
@@ -22,7 +23,7 @@ for _, input in inputs.items():
     with open("main.py", "w") as file:
         file.write(code)
 
-    with open("READMEe.md", "w") as file:
+    with open("README.md", "w") as file:
         file.write(markdown)
 
 
