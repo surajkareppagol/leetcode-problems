@@ -25,6 +25,7 @@ not all testcases passed.
 
 - ❗670\. Maximum Swap
 - ❗862\. Shortest Subarray with Sum at Least K
+- ❗916\. Word Subsets
 - ❗1497\. Check If Array Pairs Are Divisible by k
 - ❗1813\. Sentence Similarity III
 - ❗2501\. Longest Square Streak in an Array
