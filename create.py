@@ -13,7 +13,9 @@ def main(path):
 inputs = {1: [], 2: []}
 
 for _, input in inputs.items():
+    print("---> Solution ", _)
     print(Solution().function(*input))
+    print()
 """
 
     markdown = "# 🧩"
