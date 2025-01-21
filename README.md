@@ -28,6 +28,7 @@ not all testcases passed.
 - ❗916\. Word Subsets
 - ❗1497\. Check If Array Pairs Are Divisible by k
 - ❗1813\. Sentence Similarity III
+- ❗2017\. Grid Game
 - ❗2501\. Longest Square Streak in an Array
 - ❗2070\. Most Beautiful Item for Each Query
 - ❗2593\. Find Score of an Array After Marking All Elements
