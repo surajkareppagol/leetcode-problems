@@ -9,6 +9,7 @@ A collection of leetcode problems.
 - ✅ 1381\. Design a Stack With Increment Operation
 - ✅ 1455\. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 - ✅ 1769\. Minimum Number of Operations to Move All Balls to Each Box
+- ✅ 1800\. Maximum Ascending Subarray Sum 
 - ✅ 2109\. Adding Spaces to a String
 - ✅ 2270\. Number of Ways to Split Array
 - ✅ 2275\. Largest Combination With Bitwise AND Greater Than Zero
