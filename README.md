@@ -43,3 +43,5 @@ not all testcases passed.
 
 - ✅ 179\. Largest Number
 - ✅ 217\. Contains-Duplicate
+- ✅ 1835\. Find XOR Sum of All Pairs Bitwise AND 
+
